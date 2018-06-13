@@ -7,7 +7,7 @@ This project is through Faceosc to processing game to achieve action instruction
 
 本项目是通过Faceosc对processing游戏实现动作指令，实现用Faceosc获取的人脸实现对游戏的控制 
 
-#Features
+# Features
 * Facial expression tracking based on Faceosc
 * Conversion of face data to OSC data stream based on Faceosc
 * Data flow based on OSC can connect Faceosc to processing
@@ -22,7 +22,7 @@ You need to download the OSC database in processing
 
 没有其他的软件或库要求
 
-#Install
+# Install
 Install prcossing 3.3.7;faceosc
 
 The dependencies can be installed with pip:
@@ -31,7 +31,7 @@ Faceosc安装地址：
 
 > https://github.com/kylemcdonald/ofxFaceTracker/releases
 
-#Usage
+# Usage
 Simple design of games with processing，Control games with Faceosc
 
 Faceosc跟processing的连接如下示例所示的代码：
@@ -90,7 +90,7 @@ float eyeRight;
     }
 
 
-#TO-do list
+# TO-do list
 
  完善其余的人脸特征的跟踪与动作指令的实现。
 # License
