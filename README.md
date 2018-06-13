@@ -1,6 +1,7 @@
 # OSGP
 
 open-source code of parts of graduation projects in school of digital media and design arts, BUPT(2018)
+
 数字媒体与设计艺术学院毕业设计（2018）部分开源代码
 
 # Lists
