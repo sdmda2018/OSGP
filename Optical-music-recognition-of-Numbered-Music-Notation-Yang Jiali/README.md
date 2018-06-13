@@ -1,4 +1,4 @@
-# Optical-music-recognition
+# Optical Music Recognition of Numbered Music Notation 
 
 Another Optical Music Recognition by **Matlab**
 
