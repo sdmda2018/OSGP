@@ -7,7 +7,7 @@ This project can perform vocal separation, pitch tracking, and scoring operation
 
 本项目可以对输入的以ikala库为标本采集的歌声实行歌唱声分离、音高跟踪和打分操作
 
-#Features
+# Features
 * Singing Voice Separation based on DeepConvSep
 * Pitch tracking based on YAAPT
 * Singing Evaluation
@@ -21,7 +21,7 @@ No other software or library requirements.
 
 没有其他的软件或库要求
 
-#Install
+# Install
 Install python 2.7,Matlab R2014b directly
 
 climate, numpy, scipy, cPickle, theano, lasagne
@@ -33,7 +33,7 @@ The dependencies can be installed with pip:
 > pip install numpy scipy pickle cPickle climate theano
  pip install https://github.com/Lasagne/Lasagne/archive/master.zip
 
-#Usage
+# Usage
 Download the code and sample music and run the following example
 
 下载代码和示例音频如下示例所示运行即可
@@ -58,7 +58,7 @@ Pitch tracking use yaapt/test.m directly
 Singing Evaluation use yaapt/SingingEvaluation.m directly
 
 直接运行yaapt/SingingEvaluation.m便可得到评价分数
-#TO-do list
+# TO-do list
  完善其余的符号识别
 
 # License
