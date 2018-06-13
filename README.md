@@ -1,9 +1,12 @@
 # OSGP
+
 open-source code of parts of graduation projects in school of digital media and design arts, BUPT(2018)
 数字媒体与设计艺术学院毕业设计（2018）部分开源代码
 
 # Lists
+
 These projects are listed in the order of alphabetical sequence for project name.
+
 |Project Name| Author |
 |:-- | :-- |
 | An Optical Music Recognition for Gongchepu by Matlab| Shen Zhiyu 沈智宇|
@@ -18,4 +21,5 @@ These projects are listed in the order of alphabetical sequence for project name
 Projects above are completed under the guidance of instructor Li Rongfeng.
 
 # Usage
+
 Please refer to separate readme files for each project
